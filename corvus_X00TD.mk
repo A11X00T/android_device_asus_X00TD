@@ -26,7 +26,6 @@ $(call inherit-product, vendor/corvus/config/common_full_phone.mk)
 TARGET_INCLUDE_WIFI_EXT := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_USES_BLUR := true
 IS_PHONE := true
 scr_resolution := 1080
 
